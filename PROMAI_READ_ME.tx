@@ -1,0 +1,2 @@
+Run this command to start server:
+libretranslate --host localhost --port 5005
