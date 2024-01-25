@@ -1,2 +1,5 @@
 Run this command to start server:
 libretranslate --host localhost --port 5005
+
+To check that the server works you can to:
+http://localhost:5005/
