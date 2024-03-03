@@ -1,4 +1,4 @@
-winget install python --accept-source-agreements --accept-package-agreements
+winget install python -v3.8.2 --accept-source-agreements --accept-package-agreements
 python --version
 pip --version
 pip install libretranslate
